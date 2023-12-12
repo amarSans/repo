@@ -33,4 +33,15 @@ body {
     background-color: #f4f4f4;
     padding: 1em;
   }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
   
+  footer {
+    background-color: #333;
+    color: rebeccapurple;
+    text-align: center;
+    padding: 1em 0;
+  }
